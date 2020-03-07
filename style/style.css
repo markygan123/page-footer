@@ -121,7 +121,7 @@ input[type="text"] {
 
 	border: none;
 	border-bottom: 1px solid #fff;
-	padding: 12px 3px;
+	padding: 12px 0;
 
 	color: #c7c7c7;
 	font-size: 0.80rem;
