@@ -26,7 +26,6 @@ body a {
 }
 
 
-
 .footer {
 	display: flex;
 	justify-content: space-between;
@@ -155,12 +154,4 @@ input[type="text"] {
 	flex: 1.5;
 	margin-bottom: auto;
 	margin-top: 70px;
-}
-
-
-.first,
-.second,
-.third,
-.fourth {
-	/*padding: 15px;*/
 }
