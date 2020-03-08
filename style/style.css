@@ -97,6 +97,10 @@ body a {
 	margin: 13px 0;
 }
 
+.links li:hover {
+	text-decoration: underline;
+}
+
 .third {
 	margin-bottom: 33px;
 }
