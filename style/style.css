@@ -144,6 +144,10 @@ input[type="text"] {
 	width: 35%;
 }
 
+.sign-up:hover {
+	background-color: #ff2929;
+}
+
 .first,
 .second,
 .third {
